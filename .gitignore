@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+ 
+# Maven
+.mvn
+mvnw
+mvnw.cmd
+target/
+gen/
+bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
